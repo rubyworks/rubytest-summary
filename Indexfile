@@ -1,0 +1,32 @@
+---
+name:
+  rubytest-summary
+
+version: 
+  0.1.0
+
+title:
+  Rubytest Summary Test Report Format
+
+summary:
+  Summary test report format for Rubytest.
+
+description:
+  This is a report format plugin for Rubytest.
+
+resources:
+  home: http://rubyworks.github.com/rubytest-summary
+  code: http://github.com/rubyworks/rubytest-summary
+  mail: http://groups.google.com/group/rubyworks-mailinglist
+
+repositories:
+  upstream: git@github.com:rubyworks/rubytest-summary.git
+
+authors:
+  - trans <transfire@gmail.com>
+
+created: 2011-07-23
+
+copyrights:
+  - 2011 RubyWorks (BSD-2-Clause)
+
